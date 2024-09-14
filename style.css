@@ -1,0 +1,23 @@
+.blueParrafos{
+  color: blue;
+}
+.parrafo{
+  display: flex;
+  justify-items: center;
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 1vh;
+  margin: 5px;
+}
+.form{
+  margin: 5px;
+}
+.list{
+  margin: 5px;
+}
+.campo{
+  margin: 5px;
+}
+.button{
+  display: block;
+}
